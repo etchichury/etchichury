@@ -22,7 +22,7 @@ These are the projects I took part of:
 Machine Learning | Software Engineering | Cybersecurity
 
 **Technologies:**
-Python | Javascript | Docker | AWS | Linux
+Python | JavaScript | Flutter | Docker | AWS | Linux
 
 ### :mailbox: Reach me
 
