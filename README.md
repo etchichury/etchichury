@@ -1,4 +1,5 @@
-### Hello there :
+### Hello there :vulcan_salute:
+
 My name is João Etchichury Soares. I'm a Software Engineering student at PUCRS, Brazil.
 
 ### :office: Working
@@ -25,7 +26,5 @@ Python | Javascript | Docker | AWS | Linux
 
 ### :mailbox: Reach me
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&style=flat-square&logo=gmail&logoColor=white&link=joaoetchichurys@gmail.com)](mailto:joaoetchichurys@gmail.com)
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=linkedin.com/in/joaoesoares)](https://linkedin.com/in/joaoesoares)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&style=flat-square&logo=gmail&logoColor=white&link=joaoetchichurys@gmail.com)](mailto:joaoetchichurys@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=linkedin.com/in/joaoesoares)](https://linkedin.com/in/joaoesoares)
 
