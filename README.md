@@ -1,21 +1,19 @@
 ### Hello there :vulcan_salute:
 
-My name is João Etchichury Soares. I'm a Software Engineering student at PUCRS, Brazil.
+My name is João Etchichury Soares. I'm a Software Engineering, I try building things the best way I can.
 
 ### :office: Working
 
-I'm a machine learning engineer intern at [Teia Labs](http://www.teialabs.com/).
+I'm a software engineer at [HP Inc.](https://www.hp.com/us-en/home.html)
 
 ### :construction: Projects
 
-I'm currently working on two personal projects:
-- [UAS7 Form](github.com/etchichury/uas7-form): project to help me fill the UAS7 form.
-- [Etcetera API](github.com/etchichury/Etcetera-API): API of my "do it all" app
 
-These are the projects I took part of:
-- [Bem Estar](ages.pucrs.br/?page_id=125): project to help psychology researchers understand people's behavior relative to social media usage. Using Flutter and Firebase.
-- [Stop Cidadania](ages.pucrs.br/?page_id=559): project to encourage youth learning about citizenship. Using Vue and Express.
-- [Polícia Federal](tools.ages.pucrs.br/PoliciaFederal): project to help the federal police on filling the crime scene forensics form. Using Java (Android) and Express.
+These are the projects I took part of or am working on:
+- [Calculadora de Distribuição de Resultados](ages.pucrs.br/lista-de-projetos-2020-2/calculadora): help [Sicred](sicredi.com.br)'s associates to calculate the results distribution so they can have a better understanding how much will be their gains.
+- [Bem Estar](ages.pucrs.br/lista-de-projetos-2020/elementor-125): help psychology researchers understand people's behavior and social media usage. Using Flutter and Firebase. Main role: software architect.
+- [Stop Cidadania](ages.pucrs.br/lista-de-projetos-2019-1/stop): help [Mobis](mobis.org.br) encourage youth learning about citizenship through a Stop game. Using Vue and Express. Main role: database architect.
+- [Polícia Federal](ages.pucrs.br/lista-de-projetos-2018-1/policiafederal): help the federal police on filling out the crime scene forensics form. Using Java (Android) and Express. Main role: developer
 
 ### :telescope: Interests
 **Areas:**
